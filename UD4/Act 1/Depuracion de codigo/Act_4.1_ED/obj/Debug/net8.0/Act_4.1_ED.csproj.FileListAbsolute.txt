@@ -1,0 +1,15 @@
+C:\Users\Jhona\Desktop\Instituto\Entorno\UD4\Act1\Depuracion de codigo\Act_4.1_ED\bin\Debug\net8.0\Act_4.1_ED.exe
+C:\Users\Jhona\Desktop\Instituto\Entorno\UD4\Act1\Depuracion de codigo\Act_4.1_ED\bin\Debug\net8.0\Act_4.1_ED.deps.json
+C:\Users\Jhona\Desktop\Instituto\Entorno\UD4\Act1\Depuracion de codigo\Act_4.1_ED\bin\Debug\net8.0\Act_4.1_ED.runtimeconfig.json
+C:\Users\Jhona\Desktop\Instituto\Entorno\UD4\Act1\Depuracion de codigo\Act_4.1_ED\bin\Debug\net8.0\Act_4.1_ED.dll
+C:\Users\Jhona\Desktop\Instituto\Entorno\UD4\Act1\Depuracion de codigo\Act_4.1_ED\bin\Debug\net8.0\Act_4.1_ED.pdb
+C:\Users\Jhona\Desktop\Instituto\Entorno\UD4\Act1\Depuracion de codigo\Act_4.1_ED\obj\Debug\net8.0\Act_4.1_ED.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhona\Desktop\Instituto\Entorno\UD4\Act1\Depuracion de codigo\Act_4.1_ED\obj\Debug\net8.0\Act_4.1_ED.AssemblyInfoInputs.cache
+C:\Users\Jhona\Desktop\Instituto\Entorno\UD4\Act1\Depuracion de codigo\Act_4.1_ED\obj\Debug\net8.0\Act_4.1_ED.AssemblyInfo.cs
+C:\Users\Jhona\Desktop\Instituto\Entorno\UD4\Act1\Depuracion de codigo\Act_4.1_ED\obj\Debug\net8.0\Act_4.1_ED.csproj.CoreCompileInputs.cache
+C:\Users\Jhona\Desktop\Instituto\Entorno\UD4\Act1\Depuracion de codigo\Act_4.1_ED\obj\Debug\net8.0\Act_4.1_ED.sourcelink.json
+C:\Users\Jhona\Desktop\Instituto\Entorno\UD4\Act1\Depuracion de codigo\Act_4.1_ED\obj\Debug\net8.0\Act_4.1_ED.dll
+C:\Users\Jhona\Desktop\Instituto\Entorno\UD4\Act1\Depuracion de codigo\Act_4.1_ED\obj\Debug\net8.0\refint\Act_4.1_ED.dll
+C:\Users\Jhona\Desktop\Instituto\Entorno\UD4\Act1\Depuracion de codigo\Act_4.1_ED\obj\Debug\net8.0\Act_4.1_ED.pdb
+C:\Users\Jhona\Desktop\Instituto\Entorno\UD4\Act1\Depuracion de codigo\Act_4.1_ED\obj\Debug\net8.0\Act_4.1_ED.genruntimeconfig.cache
+C:\Users\Jhona\Desktop\Instituto\Entorno\UD4\Act1\Depuracion de codigo\Act_4.1_ED\obj\Debug\net8.0\ref\Act_4.1_ED.dll
